@@ -1,6 +1,3 @@
-Perfect 🚀 Here’s the full `.md` content with a **Table of Contents (TOC)** for smooth navigation:
-
-````markdown
 # Two Pointers Technique
 
 ## 📑 Table of Contents
