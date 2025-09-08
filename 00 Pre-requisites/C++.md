@@ -1,4 +1,3 @@
-````markdown
 # A Comprehensive Guide to C++ STL Containers for DSA 🚀
 
 An essential guide for students of Data Structures & Algorithms and competitive programmers, covering the most common containers in the C++ Standard Template Library (STL) with their use cases and time complexities.
