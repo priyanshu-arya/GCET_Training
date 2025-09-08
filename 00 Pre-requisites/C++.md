@@ -446,5 +446,3 @@ char c = std::get<1>(t1); // c = 'a'
 
 Reach me at [priyanshuthetechintel@gmail.com](mailto:priyanshuthetechintel@gmail.com)
 
-```
-```
