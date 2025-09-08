@@ -1,6 +1,7 @@
-// 1. Brute Force (O(n²))
 #include <bits/stdc++.h>
 using namespace std;
+
+// 1. Brute Force (O(n²))
 
 vector<int> twoSumBF(vector<int>& nums, int target) {
     int n = nums.size();
